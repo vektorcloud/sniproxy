@@ -1,2 +1,3 @@
 # sniproxy
-Minimal HTTP/TLS sniproxy Docker image build
+
+Alpine-based sniproxy HTTP/TLS proxy image
