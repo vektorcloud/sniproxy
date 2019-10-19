@@ -1,6 +1,6 @@
 # sniproxy
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/sniproxy)
 
 Alpine-based sniproxy HTTP/TLS proxy image
 
